@@ -12,7 +12,16 @@
 #character {
     width: 20px;
     height: 50px;
-    background-color: red;
+    background-color: blue;
     position: relative;
     top: 150px;
+}
+
+#block { 
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    position: relative;
+    top: 130px;
+    left: 480px;
 }
